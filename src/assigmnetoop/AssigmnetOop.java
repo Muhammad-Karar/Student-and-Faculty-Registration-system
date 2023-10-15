@@ -9,6 +9,5 @@ public  class AssigmnetOop {
     Window w=new Window();
  
        }
-    
-    
+   
 }
